@@ -13,7 +13,7 @@ A **dual monitoring system** for potable water and seawater, powered by advanced
   - **AI-Powered Analytics**:
     - **Forecasting Issues (Potable Water)**: Train AI models to predict contamination risks (e.g., lead spikes, pharmaceutical residues) by analyzing historical water quality data, weather patterns, and SUS health records (e.g., gastroenteritis outbreaks).
     - **Source Triangulation (Seawater)**: Use AI to pinpoint pollution sources (e.g., sewage outlets, industrial runoff) by correlating sample data with geospatial, tidal, and industrial activity datasets.
-    - **Trend Analysis**: Cross-reference water quality with SUS open data to identify health risks and predict disease outbreaks.
+    - **Trend Analysis**: Cross-reference water quality with SUS open data(DataSUS) to identify health risks and predict disease outbreaks.
     - **Optimization**: Dynamically adjust sample rates and geolocations to focus on high-risk areas, reducing costs by ~15–20%.
   - **Blockchain**: Store data on a public blockchain for transparency, censorship resistance, and contestability. Disputed samples can be scrutinized, scored, or replaced, ensuring trust.
   - **Self-Owned Lab**: Reduces testing costs by ~20–30% compared to outsourcing.
