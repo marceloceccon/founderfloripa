@@ -1,4 +1,4 @@
-# Pitch Deck: Florianópolis Water Quality Monitoring Initiative
+# Pitch Deck: Florianópolis Water Quality Monitoring Initiative (Replicate everywhere)
 
 ## 1. The Problem
 - **Health Risks**: Contaminated potable water (metals, pharmaceuticals, chlorine, fluoride) and seawater (sewage, industrial effluents) endanger Florianópolis’ 557,398 residents and 3M annual tourists. Studies (2009–2010) show 2,000–4,000 annual cases of waterborne diseases (e.g., gastroenterite, hepatitis A).
